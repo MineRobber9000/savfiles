@@ -1,8 +1,0 @@
-README.rst
-sav.py
-setup.py
-savfiles.egg-info/PKG-INFO
-savfiles.egg-info/SOURCES.txt
-savfiles.egg-info/dependency_links.txt
-savfiles.egg-info/top_level.txt
-test/testsav.py
